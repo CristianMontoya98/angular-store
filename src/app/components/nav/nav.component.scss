@@ -23,7 +23,7 @@
     flex-direction: column;
     justify-content: flex-start;
     transform: translateX(-100%);
-    transition: alle ease-out .5s;
+    transition: all ease-out .5s;
     &.active{
         transform: translateX(0);
     }
